@@ -1,0 +1,25 @@
+Relatório de Detecção de Pessoas
+================================
+
+Imagem: imagen001.jpeg
+Pessoas detectadas: 207
+----------------------------------------
+Imagem: imagen002.jpeg
+Pessoas detectadas: 73
+----------------------------------------
+Imagem: imagen003.jpeg
+Pessoas detectadas: 182
+----------------------------------------
+Imagem: imagen004.jpeg
+Pessoas detectadas: 182
+----------------------------------------
+Imagem: imagen005.jpeg
+Pessoas detectadas: 97
+----------------------------------------
+Imagem: imagen006.jpeg
+Pessoas detectadas: 43
+----------------------------------------
+
+Total de imagens processadas: 6
+Total de pessoas detectadas: 784
+Média de pessoas por imagem: 130.67

@@ -1,0 +1,10 @@
+Relatório de Detecção de Pessoas
+================================
+
+Imagem: carnaval_caioba.jpeg
+Pessoas detectadas: 45
+----------------------------------------
+
+Total de imagens processadas: 1
+Total de pessoas detectadas: 45
+Média de pessoas por imagem: 45.00
